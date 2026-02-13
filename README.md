@@ -1,5 +1,13 @@
 # HokageChess
 
+[![CI](https://github.com/organvm-iii-ergon/hokage-chess/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-iii-ergon/hokage-chess/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-iii-ergon/hokage-chess)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-iii-ergon/hokage-chess/blob/main/LICENSE)
+[![Organ III](https://img.shields.io/badge/Organ-III%20Ergon-F59E0B)](https://github.com/organvm-iii-ergon)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-iii-ergon/hokage-chess)
+[![TypeScript](https://img.shields.io/badge/lang-TypeScript-informational)](https://github.com/organvm-iii-ergon/hokage-chess)
+
+
 ![CI](https://img.shields.io/github/actions/workflow/status/organvm-iii-ergon/hokage-chess/ci-python.yml?branch=main&label=CI)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Organ](https://img.shields.io/badge/organ-III%20%C2%B7%20Commerce-orange)
