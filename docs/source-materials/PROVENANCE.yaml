@@ -1,0 +1,56 @@
+schema_version: '1.0'
+repo: hokage-chess
+org: organvm-iii-ergon
+generated: '2026-02-13T03:33:57.505273+00:00'
+total_materials: 6
+materials:
+- filename: HokageChess_Governance_Minimal.md
+  source_path: /Users/4jp/Workspace/hokage-chess--believe-it!/HokageChess_Governance_Minimal.md
+  sha256: 69acf209a03b20cb8dff2968fb4f4b24dc371f67533c6d455e12e6f0035ca5ae
+  size_bytes: 13701
+  last_modified: '2025-12-17T14:16:42.344332+00:00'
+  classification_rule: name_variant_match
+  confidence: 0.95
+  target_subdir: docs/source-materials/theory/
+- filename: HokageChess_Quick_Reference.md
+  source_path: /Users/4jp/Workspace/hokage-chess--believe-it!/HokageChess_Quick_Reference.md
+  sha256: 14a0f5716e6bb51622c3d72e54197eac466e0b6a04a5c02d6497ebd504b3b4b9
+  size_bytes: 8796
+  last_modified: '2025-12-17T14:16:48.888653+00:00'
+  classification_rule: name_variant_match
+  confidence: 0.95
+  target_subdir: docs/source-materials/theory/
+- filename: Chess Engine and GUI Survey.pdf
+  source_path: /Users/4jp/Workspace/hokage-chess--believe-it!/Chess Engine and GUI
+    Survey.pdf
+  sha256: 922a66d0eb0e5c4b31c2a6b7d2333e34ea42f4944222fad5d3d1e87b1531c592
+  size_bytes: 243978
+  last_modified: '2025-12-16T18:45:04+00:00'
+  classification_rule: name_variant_match
+  confidence: 0.95
+  target_subdir: docs/source-materials/research/
+- filename: _gemini_visit_20260102.json
+  source_path: /Users/4jp/Workspace/hokage-chess--believe-it!/_gemini_visit_20260102.json
+  sha256: 4372efc71e55ae167b5c091691b8521b6da2b7970b599201c6b618d19883ef9f
+  size_bytes: 511
+  last_modified: '2026-01-04T21:27:08.469878+00:00'
+  classification_rule: name_variant_match
+  confidence: 0.95
+  target_subdir: docs/source-materials/specs/
+- filename: Strategic Growth Blueprint for @HokageChess.pdf
+  source_path: /Users/4jp/Workspace/hokage-chess--believe-it!/Strategic Growth Blueprint
+    for @HokageChess.pdf
+  sha256: 940195fcddc3e016629678fa9c8c12a0d1e9595deed411e1d5a84431b6349afc
+  size_bytes: 164312
+  last_modified: '2025-12-17T14:28:11.742603+00:00'
+  classification_rule: name_variant_match
+  confidence: 0.95
+  target_subdir: docs/source-materials/research/
+- filename: HokageChess_Checklist_Governance.md
+  source_path: /Users/4jp/Workspace/hokage-chess--believe-it!/HokageChess_Checklist_Governance.md
+  sha256: b0a054eb6f6670368f131d5810a30a42eee0cc7bf8101d2a0765eef0acbdd3dc
+  size_bytes: 16511
+  last_modified: '2025-12-17T14:16:55.242794+00:00'
+  classification_rule: name_variant_match
+  confidence: 0.95
+  target_subdir: docs/source-materials/theory/
