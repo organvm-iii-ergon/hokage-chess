@@ -1,0 +1,6 @@
+title: "Hokage Chess"
+description: "Hokage Chess: strategic chess variant design"
+theme: minima
+include:
+  - docs
+  - README.md
