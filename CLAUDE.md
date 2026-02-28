@@ -1,3 +1,34 @@
+# CLAUDE.md — hokage-chess
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## What This Is
+
+**HokageChess** — data-driven chess content creation and audience development platform. TypeScript library that models content strategy, analytics, growth mechanics, and narrative structures for chess YouTube/social media creators. Uses Ki-Sho-Ten-Ketsu storytelling structure + Chess.com API data. **DESIGN_ONLY** — library stubs and type definitions, no runtime backend.
+
+## Commands
+
+```bash
+npm install
+npm run build        # tsc → dist/
+npm test             # jest --coverage
+npm run lint         # eslint src/ --ext .ts
+npm run dev          # tsc --watch
+```
+
+## Architecture
+
+Pure TypeScript library — no server, no frontend. Four domain modules in `src/`:
+
+- **`content-strategy.ts`** — Title formula scoring (`[EMOTION] + [STAKES] + [CONTEXT]`), thumbnail scoring, upload checklist, video idea types (`VideoFormat`, `VideoIdea`, `ThumbnailScore`)
+- **`analytics.ts`** — Growth tracking types and analysis functions (YouTube/social metrics)
+- **`growth.ts`** — Subscriber velocity, monetization milestone modeling
+- **`narrative.ts`** — Ki-Sho-Ten-Ketsu narrative arc structures for chess video scripts
+
+`src/index.ts` re-exports all four modules. Tests mirror `src/` in `tests/`. Coverage reports in `coverage/`.
+
+**Design documents**: `docs/` contains ADRs, design specs, and source materials (Chess.com API spec sheets, market research).
+
 <!-- ORGANVM:AUTO:START -->
 ## System Context (auto-generated — do not edit)
 
